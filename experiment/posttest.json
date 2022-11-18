@@ -2,7 +2,7 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "If I=33&#x2220;-13º , find the Thevenin’s equivalent circuit to the left of terminal x-y in the network of  Fig in below.<br/><p style=\"text-align:center\"><img src=\"images/quiz1.jpg\" style=\"width:450px;height:280px;\"></p>",
+      "question": "If I=33&#x2220;-13º , find the Thevenin’s equivalent circuit to the left of terminal x-y in the network of  Fig in below.<br/><p style=\"text-align:center\"><img src=\"images/quiz1.JPG\" style=\"width:450px;height:280px;\"></p>",
       "answers": {
         "a": "4.545&#x2220;58º Ω, 150&#x2220;45º V",
         "b": "4.545&#x2220;48º Ω, 15&#x2220;45º V",
@@ -36,7 +36,7 @@
       "difficulty": "beginner"
     },
     {
-      "question": "Find Thevenin’s equivalent circuit of the network.<br/><p style=\"text-align:center\"><img src=\"images/quiz3.jpg\" style=\"width:450px;height:260px;\"></p>",
+      "question": "Find Thevenin’s equivalent circuit of the network.<br/><p style=\"text-align:center\"><img src=\"images/quiz3.JPG\" style=\"width:450px;height:260px;\"></p>",
       "answers": {
         "a": "V<sub>o.c</sub>=(6.5 - sin wt ) V and R<sub>th</sub>= 20Ω",
         "b": "V<sub>o.c</sub>=(6.5 - sin wt ) V and R<sub>th</sub>= 10Ω",
