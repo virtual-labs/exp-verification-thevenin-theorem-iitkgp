@@ -2,38 +2,123 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "If I=33&#x2220;-13º , find the Thevenin’s equivalent circuit to the left of terminal x-y in the network of  Fig in below.<br/><p style=\"text-align:center\"><img src=\"images/quiz1.JPG\" style=\"width:450px;height:280px;\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "4.545&#x2220;58º Ω, 150&#x2220;45º V",
+        "b": "4.545&#x2220;48º Ω, 15&#x2220;45º V",
+        "c": "4.75&#x2220;58º Ω, 75&#x2220;45º V",
+        "d": "9.545&#x2220;58º Ω, 150&#x2220;45º V"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen correct answer",
+        "b": "you have chosen the wrong answer",
+        "c": "you have chosen the wrong answer",
+        "d": "you have chosen the wrong answer"
       },
       "correctAnswer": "a",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "Find the current in 10 Ω  resistor using Thevnin’s Theorem .<br/><p style=\"text-align:center\"><img src=\"images/quiz2.jpg\" style=\"width:450px;height:330px;\"></p>",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "9.35&#x2220;28.3º A",
+        "b": "9.35&#x2220;58.3º A",
+        "c": "7.35&#x2220;28.3º A",
+        "d": "7.35&#x2220;58.3º A"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
-      },
+        "a": "You have chosen wrong answer",
+        "b": "you have chosen the wrong answer",
+        "c": "you have chosen the correct answer",
+        "d": "you have chosen the wrong answer"
+         },
       "correctAnswer": "c",
       "difficulty": "beginner"
-    }
+    },
+    {
+      "question": "Find Thevenin’s equivalent circuit of the network.<br/><p style=\"text-align:center\"><img src=\"images/quiz3.JPG\" style=\"width:450px;height:260px;\"></p>",
+      "answers": {
+        "a": "V<sub>o.c</sub>=(6.5 - sin wt ) V and R<sub>th</sub>= 20Ω",
+        "b": "V<sub>o.c</sub>=(6.5 - sin wt ) V and R<sub>th</sub>= 10Ω",
+        "c": "V<sub>o.c</sub>=(8.5 - sin wt ) V and R<sub>th</sub>= 15Ω",
+        "d": "V<sub>o.c</sub>=(6.5 - cos wt ) V and R<sub>th</sub>= 15Ω"
+      },
+      "explanations": {
+        "a":"you have chosen the wrong answer",
+        "b": "you have chosen the correct answer",
+        "c": "you have chosen the wrong answer",
+        "d": "you have chosen the wrong answer"
+         },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Find the Thevenin’s equivalent network. The voltage source 10&#x2220;30º has internal resistance of 1Ω.<br/><p style=\"text-align:center\"><img src=\"images/quiz5.jpg\" style=\"width:450px;height:330px;\"></p>",
+      "answers": {
+        "a": "V<sub>o.c</sub>=(-18.68-j3.22)V; Z<sub>int</sub>=2.08&#x2220;-180ºΩ",
+        "b": "V<sub>o.c</sub>=(-12.37-j7.14)V; Z<sub>int</sub>=2.08&#x2220;-180ºΩ",
+        "c": "V<sub>o.c</sub>=(-12.37-j7.14)V; Z<sub>int</sub>=1.43&#x2220;-180ºΩ",
+        "d": "V<sub>o.c</sub>=(-18.68-j3.22)V; Z<sub>int</sub>=1.43&#x2220;-180ºΩ"
+      },
+      "explanations": {
+        "a":"you have chosen the wrong answer",
+        "b": "you have chosen the wrong answer",
+        "c": "you have chosen the correct answer",
+        "d": "you have chosen the wrong answer"
+         },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "In the network find the current through the 10Ω  resistor  utilizing Thevenin’s Theorem.<br/><p style=\"text-align:center\"><img src=\"images/thev6.jpg\" style=\"width:510px;height:280px;\"></p>",
+      "answers": {
+        "a": "1.44A",
+        "b": "3.75A",
+        "c": "8.3A",
+        "d": "1.26A"
+      },
+      "explanations": {
+        "a":"you have chosen the wrong answer",
+        "b": "you have chosen the wrong answer",
+        "c": "you have chosen the wrong answer",
+        "d": "you have chosen the correct answer"
+         },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Determine the current through the 5Ω resistor in the circuit.<br/><p style=\"text-align:center\"><img src=\"images/thev7.jpg\" style=\"width:480px;height:280px;\"></p>",
+      "answers": {
+        "a": "1A",
+        "b": "2A",
+        "c": "4A",
+        "d": "5A"
+      },
+      "explanations": {
+        "a":"you have chosen the correct answer",
+        "b": "you have chosen the wrong answer",
+        "c": "you have chosen the wrong answer",
+        "d": "you have chosen the wrong answer"
+         },
+      "correctAnswer": "a",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "What is the current in the 10Ω resistor? Use Thevenin’s Theorem.<br/><p style=\"text-align:center\"><img src=\"images/thev8.jpg\" style=\"width:480px;height:280px;\"></p>",
+      "answers": {
+        "a": "0.625A",
+        "b": "2.5A",
+        "c": "0.315A",
+        "d": "1.25A"
+      },
+      "explanations": {
+        "a":"you have chosen the wrong answer",
+        "b": "you have chosen the wrong answer",
+        "c": "you have chosen the correct answer",
+        "d": "you have chosen the wrong answer"
+         },
+      "correctAnswer": "c",
+      "difficulty": "beginner"
+    }    
   ]
 }
