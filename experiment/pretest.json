@@ -2,38 +2,96 @@
   "version": 2.0,
   "questions": [
     {
-      "question": "This is a Sample Question 1?",
+      "question": "Thevenin's resistance Rth is found",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "By removing voltage sources along with their internal resistances",
+        "b": "By short-circuiting the given two terminals",
+        "c": "Between any two open terminals",
+        "d": "Between same open terminals as for Eth"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wrong answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen the correct answer"
       },
-      "correctAnswer": "a",
+      "correctAnswer": "d",
       "difficulty": "beginner"
     },
     {
-      "question": "This is a Sample Question 2?",
+      "question": "While Thevenizing a circuit between two terminals, V<sub>th</sub> is equal to",
       "answers": {
-        "a": "answer1",
-        "b": "answer2",
-        "c": "answer3",
-        "d": "answer4"
+        "a": "Short-circuit terminal voltage",
+        "b": "Open-circuit terminal voltage",
+        "c": "Net voltage available in the circuit",
+        "d": "E.M.F. of the battery nearest to the terminal"
       },
       "explanations": {
-        "a": "Explanation 1  <a href='www.google.com'>here</a>",
-        "b": "Explanation 2",
-        "c": "Explanation 2",
-        "d": "Explanation 2"
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen the wrong answer"
       },
-      "correctAnswer": "c",
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A closed path made by several branches of the network is known as",
+      "answers": {
+        "a": "Branch",
+        "b": "Loop",
+        "c": "Circuit",
+        "d": "Junction"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen the wrong answer"
+      },
+      "correctAnswer": "b",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "A network consists of linear resistors and ideal voltage source. If the value of the resistors are doubled then voltage across each resistor is",
+      "answers": {
+        "a": "Halved",
+        "b": "Doubled",
+        "c": "Increased four lines",
+        "d": "Not changed"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen wron answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen the correct answer"
+      },
+      "correctAnswer": "d",
+      "difficulty": "beginner"
+    },
+    {
+      "question": "Pole of a network is a frequency at which",
+      "answers": {
+        "a": "Network function becomes zero",
+        "b": "Network function becomes infinity",
+        "c": "Network function becomes unity",
+        "d": "None of these"
+      },
+      "explanations": {
+        "a": "You have chosen wrong answer",
+        "b": "You have chosen correct answer",
+        "c": "You have chosen wrong answer",
+        "d": "You have chosen the wrong answer"
+      },
+      "correctAnswer": "b",
       "difficulty": "beginner"
     }
+
+
+
+
+
+
+
   ]
 }
