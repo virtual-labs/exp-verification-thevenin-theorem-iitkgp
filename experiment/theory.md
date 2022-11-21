@@ -58,3 +58,4 @@ $$V_{o.c.} & = \frac{E*R_2}{r + R_1+R_2}$$
 <br>
 </p>                            
 </div>
+<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
