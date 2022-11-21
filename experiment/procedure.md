@@ -33,4 +33,5 @@
 								<p class="MsoNormal"><span style="font-size:14.0pt"><o:p>&nbsp;</o:p></span></p>
 								<p class="MsoNormal">&nbsp;</p>
 								<p>&nbsp;</p>
-							</p>            
+							</p>       
+							<script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
