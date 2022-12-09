@@ -8,24 +8,26 @@
 <br>
 <br>
 <p style="text-align: left;">&nbsp;Suppose, it is required to find current flowing through load resistance R<sub>L</sub>, as shown in figure 1.</p>
-<p style="text-align: left;">&nbsp;</p>
+
 <p style="text-align: left;">This expression proceed as under:</p>
-<p style="text-align: left;">&nbsp;</p>
+
 <p style="text-align: left;">1) Remove R<sub>L</sub> from the circuit terminals A and B and redraw the circuit as shown in figure 2. Obviously, the terminal have become open circuited.</p>
-<p style="text-align: left;">&nbsp;</p>
+
 <br><figure style="text-align:center">
 <img alt="" src="images/pic2.JPG" style="width:400px;height:200px;">
 <figcaption>[Fig 2: Circuit with R<sub>L</sub> removed.]</figcaption>
 </figure>
-<p style="text-align: center;">&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;</p>
-<p>&nbsp;</p>
+
 <p style="text-align: left;">2) Calculate the open circuit Voltages V<sub>O.C. </sub>which appears across terminals A and B when they are open .ie. when R<sub>L</sub> is removed.</p>
-<p style="text-align: left;">&nbsp;</p>
+
 <p style="text-align: left;">As seen, V<sub>.O.C.</sub>= drop across R<sub>2</sub>= IR<sub>2</sub> where I is the circuit current when A and B is open.</p>
-<p>$$I=\frac{E}{r + R_1+R_2}$$
-$$V_{o.c.}= I*R_1$$
-$$V_{o.c.} & = \frac{E*R_2}{r + R_1+R_2}$$
-</p>
+
+$$ I=\frac{E}{r + R_1+R_2} $$
+
+$$ V_{o.c.}= I*R_1 $$
+
+$$ V_{o.c.}  = \frac{E*R_2}{r + R_1+R_2} $$
+
 <p>&nbsp;It is also called Thevenin voltage(V<sub>th</sub>).</p>
 <p>&nbsp;&nbsp;</p>
 <p>3) Now, imagine the battery to be removed from the circuit, leaving its internal resistance r behind and redraw the circuit as shown in figure 3.</p>
