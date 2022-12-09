@@ -48,16 +48,11 @@ $$ V_{o.c.}  = \frac{E*R_2}{r + R_1+R_2} $$
 <div>&nbsp;</div>
 <div>4) R<sub>L</sub> is now connected back across terminals A and B from where it was temporaily removed earlier. Current flowing through R<sub>L</sub> is given by,&nbsp;</div>
 <p>$$I_{1}=\frac{V_{th}}{R_{th}+R_L}$$</p><br>
-<div>
-<br><figure style="text-align:center">
-<img alt="" src="images/pic4.JPG" style="width:400px;height:200px;">
-<br><figcaption>
- [Fig 4: Thevenin's equivalent circuit]
-</figcaption>
-</figure>
-<br>
-<br>
-<br>
-</p>                            
+<div align="center">
+<img src="images/pic4.JPG" />
+
+***Fig.4 : Thevenin's equivalent circuit***
+</div>
+                          
 </div>
 <script id="MathJax-script" async src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js"></script>
