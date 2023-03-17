@@ -1,5 +1,3 @@
-EMPTY
-<!-- Remove all lines above this line before making changes to the file -->
 ### Subject Matter Experts
 
 <b>Name of Developer | <b> **Prof. Alok Kanti Deb**
