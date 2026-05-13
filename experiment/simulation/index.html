@@ -1,4 +1,15 @@
 <html>
+<style>
+@media print {
+  @page {
+    size: B4 portrait; 
+    margin: 0cm; 
+  }
+  body {
+    width: 16cm;
+  }
+
+</style>
 <head>
 <!--<a href="./thevenin_website.html" target="popup" onclick="window.open('./thevenin_website.html','name','width=1350,height=675')">Open page in new window</a>
 --><title>Verification of Thevenin's Theorem</title>
@@ -207,6 +218,9 @@
 		<br><br>
 </div>
 </form>
+<div align="center" style="position:absolute; top:1275px; width:1160px">
+<button onclick="window.print()" style="cursor:pointer; text-align:center;font-size: 20px; height:40px; width:500px">Click here to print</button>
+</div>
 </div>
 </body>
 </html>
